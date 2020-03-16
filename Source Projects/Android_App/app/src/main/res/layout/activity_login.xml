@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/login_background">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:elevation="0dp"
+        android:isScrollContainer="true"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="56dp"
+        android:weightSum="1"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:background="@drawable/login_background">
+
+
+        <TextView
+            android:id="@+id/goToController"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="46dp"
+            android:shadowColor="@color/aluminum"
+            android:text="Water Tank Controller"
+            android:textColor="@color/accent"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:shadowColor="@color/aluminum"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Smart Home Solutions"
+            android:textColor="@color/accent"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/changeUrl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/urlText"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="12dp"
+            android:gravity="center"
+            android:text="Change URL"
+            android:textColor="@color/accent"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/urlText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="http://192.168.225.27:8080/SpringRestHibernate"
+            android:textColor="@color/accent"
+            android:textSize="12sp"
+            android:visibility="invisible"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="32dp" />
+
+        <TextView
+            android:id="@+id/notific"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/changeUrl"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="25dp"
+            android:text="Notification" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\2d1990888f0acf966512e3138667d283cf5e58a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_715ca5019da92c7763716394fb3ef980091788a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\77308c8e90d95780b44c867049f633cc717700bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_3c51d12a9933fa88e9f8f5d34be2d2d8bd6a7aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\f0d173ba5405d52980d2f9bd9652ba5729353b32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_2b3da7263d74f51e73de461bb72a78ed2300f697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_293679b58d4fff958ba8af26937bfcb34a010e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\9fdd9de39a287113b58439559922037f77030dc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_d583aabaca1112de3d0e8945deb4c585c4ba7700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\b8950bee51f167c678a029a97d1235cb6707445d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_0ae96260ed2af981110a19107dfa2ce7e3def32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\2cb2dc3823a10722233ffba3ee128bbed183ed81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_8c04eccef7484baebb562d7241f42c8506bca662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\6dddbc7331196596434680f0af26a4eafe70e139\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_aceb44895c4a290a24d48870b1684dd53c17afdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\gson-2.4_c471efe550c5a0ffee12316f5db664d05655cbf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\1f960f691d3159213b6655c9f2443beabb2e39a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_bd6fc60dc1d560e9225f4274fef0403d1e8c191b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\2047413bcab67e1802dba22ebae21de7a1201497\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_0931d0a1d7de031ca484db80f616e3134f34c0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\fce2dba5f6c1a1db6a271c7850cb2537c4b282d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_ba33ad2c769bde549ad360c058144ea1c342c702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\.android\build-cache\7547b3ef4fe582b73831611f9a7e16196db42128\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\classes_501a018e0e0b9dadbf88f07ecfe5a2a245ad1eb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Satish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Android_Workspace\Home_Automation\WaterTank\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_354c987e3d6361de3a7ad7895d4053f70a6f805b.jar" />
+    </item>
+
+</items>

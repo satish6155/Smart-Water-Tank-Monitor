@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Home Automation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_URL">http://192.168.225.28:8080/SpringRestHibernate</string>
+
+
+
+</resources>

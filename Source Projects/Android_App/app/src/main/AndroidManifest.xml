@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pgmanagement.pgadmin">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pg_logo"
+        android:name="com.pgmanagement.pgadmin.volly.AppController"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.LoginActivity" android:theme="@style/AppTheme.Default" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<!--        <activity android:name="com.pgmanagement.pgadmin.activity.SignupActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.MainActivityAdmin" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.AddPgActivty" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.PgDetail" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.EditPgActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.PgListActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.UserListActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.UserAddActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.UserDetailActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.UserEditActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.AssignPgsToUser" android:theme="@style/AppTheme.Dark" />-->
+        <activity android:name="com.pgmanagement.pgadmin.activity.WebViewActivity" android:theme="@style/AppTheme.Default" />
+      <!--  <activity android:name="com.pgmanagement.pgadmin.activity.CustomerAddActivity" android:theme="@style/AppTheme.Dark" />
+        <activity android:name="com.pgmanagement.pgadmin.activity.DummyActivity" android:theme="@style/AppTheme.Dark" />-->
+
+        <activity android:name=".activity.NotificationView"
+            android:label="Details of notification"
+            android:parentActivityName=".activity.LoginActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.LoginActivity"/>
+        </activity>
+    </application>
+
+</manifest>
